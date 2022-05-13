@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cousine:ital@1&family=Itim&family=Montserrat:wght@500&family=Ultra&display=swap');
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 609px;
+    height: 116px;
+    font-family: 'Itim';
+}
+
+.button {
+    border-radius: 28px;
+    width: 226px;
+    height: 73px;
+    font-size: 32px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.user {
+    width: 700px;
+    min-width: 100px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.user1 {
+    width: 233px;
+    height: 320px;
+    background-color: white;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.circle {
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border-radius: 50px;
+    overflow: hidden;
+    color: #ca0000;
+    margin-left: 30px;
+    margin-bottom: 19.5px;
+    margin-top: 5px;
+}
+
+.one {
+    background-color: #5C6AE2;
+}
+
+.two {
+    background-color: #58D2B5;
+    ;
+}
+
+.three {
+    background-color: #C23E95;
+}
+
+.four {
+    background-color: #D16A7D;
+}
+
+.five {
+    background-color: #D14E4E;
+}
+
+.six {
+    background-color: #B45CC2;
+    ;
+}
+
+.seven {
+    background-color: #5F7391;
+}
+
+.eight {
+    background-color: #5471BC;
+}
+
+.nine {
+    background-color: #2FA1D2;
+}
+
+.ten {
+    background-color: #80CD43;
+}
+
+.eleven {
+    background-color: #ECDF67;
+}
+
+.twelve {
+    background-color: #756161;
+}
+
+.user2 {
+    width: 233px;
+    height: 320px;
+    border-color: 1px solid red;
+    background-color: white;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: -320px;
+    margin-bottom: 0px;
+    float: right;
+}
+
+.user3 {
+    width: 233px;
+    height: 320px;
+    background-color: white;
+    float: right;
+    margin-top: -319.9px;
+}
+
+p {
+    margin-left: 33px;
+    margin-top: 14px;
+    width: 66px;
+    height: 38px;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Itim';
+}
+.box1,
+.box2,
+.box3 {
+    display: flex;
+}
